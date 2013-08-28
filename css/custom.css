@@ -77,6 +77,22 @@ a.carousel-control:hover {
 
     padding: 5px 20px;
 }
+
+    .details dd {
+        margin-bottom: 5px;
+    }
+
+    .details.call-for-speakers {
+        background-color: #A52A2A;
+        min-height: 375px;
+    }
+        .details.call-for-speakers a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+        .details.call-for-speakers a:hover {
+            color: rgba(255,165,0, 0.9);
+        }
 /* End Template Tweaks */
 
 /*************************************************************
@@ -100,7 +116,7 @@ a.carousel-control:hover {
 
 /* header-description */
 .header-description {
-    margin: 130px 0 0;
+    margin: 80px 0 0;
 }
 
     .header-description h2 {
@@ -137,7 +153,16 @@ a.carousel-control:hover {
     display: block;
     padding-bottom: 70px;
 }
+    .header-features .directions {
+        padding-bottom: 10px;
+    }
 
+        .header-features .directions .map {
+            width:350px;
+            height:200px; 
+            border: 2px solid #efefef;
+            border-radius: 6px;
+        }
 
 /*************************************************************
                         section#slider
