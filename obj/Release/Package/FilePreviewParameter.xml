@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="techbash.com/" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^Y:\\Dropbox\\User\ Group\\Techbash\\2013\\Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^Y:\\Dropbox\\User\ Group\\Techbash\\2013\\Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

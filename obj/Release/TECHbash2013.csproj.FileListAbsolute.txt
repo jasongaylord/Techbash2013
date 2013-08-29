@@ -1,0 +1,5 @@
+Y:\Dropbox\User Group\Techbash\2013\Web\bin\TECHbash2013.dll
+Y:\Dropbox\User Group\Techbash\2013\Web\bin\TECHbash2013.pdb
+Y:\Dropbox\User Group\Techbash\2013\Web\obj\Release\TECHbash2013.csprojResolveAssemblyReference.cache
+Y:\Dropbox\User Group\Techbash\2013\Web\obj\Release\TECHbash2013.dll
+Y:\Dropbox\User Group\Techbash\2013\Web\obj\Release\TECHbash2013.pdb
